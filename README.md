@@ -49,21 +49,11 @@ The `MyDrawing` file is used to define instances of shapes and their properties.
 1. Open the `MyDrawing` file.
 2. Define your shapes using the following syntax:
    ```text
-   square x: 100 y: 200 size: 50 color: blue
-   circle x: 10 y: 20 radius: 30 color: green
-   triangle x1: 150 y1: 150 x2: 200 y2: 100 x3: 250 y3: 150 color: red
+   square x: 100 y: 200 size: 100 color: blue
+   circle x: 250 y: 200 radius: 100 color: green
+   triangle x1: 200 y1: 150 x2: 300 y2: 50 x3: 400 y3: 150 color: red
    ```
 3. Run the application to render the shapes.
-
-### Example
-Here is an example `MyDrawing` file:
-```text
-Painting MyDrawing
-square x: 100 y: 200 size: 50 color: blue
-circle x: 10 y: 20 radius: 30 color: green
-triangle x1: 150 y1: 150 x2: 200 y2: 100 x3: 250 y3: 150 color: red
-triangle x1: 50 y1: 50 x2: 100 y2: 20 x3: 150 y3: 50 color: yellow
-```
 
 ## Contributions
 https://github.com/Sofiamishel2003
